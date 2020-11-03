@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 @include('layouts.partials.navigation')
 <html lang="en">
-@extends('postsLayouts.master')
+@extends('layouts.master')
 @section('title','Clean Blog')
 @section('content')
     <!-- Page Header -->
